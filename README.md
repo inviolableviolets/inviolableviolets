@@ -46,8 +46,9 @@ Currently, I am working as an assistant teacher at ISDI Coders (formerly known a
 ### Contact:
 Feel free to reach out to me at sergiomataherrero@gmail.com (pretty original, I know) or in any of my social networks.
 
-**@inviolableviolets**<br>
 [![Linkedin Badge](https://img.shields.io/badge/-sergiomataherrero-black?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergiomataherrero)
+
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/inviolableviolets/)
 
 Have a great day!
 
