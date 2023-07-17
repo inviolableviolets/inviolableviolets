@@ -1,4 +1,4 @@
-<br><h1 align="center"> hello there
+<h1 align="center"> hello there
 <img src= "https://tradepending.com/wp-content/uploads/2020/06/5af449_6b6b924b802b43de9a966e02ea1a41e2mv2.gif" width="50">
 </h1>
 
@@ -46,7 +46,7 @@ Currently, I am working as an assistant teacher at ISDI Coders (formerly known a
 ### Contact:
 Feel free to reach out to me at sergiomataherrero@gmail.com (pretty original, I know) or in any of my social networks.
 
-**@inviolableviolets**
+**@inviolableviolets**<br>
 [![Linkedin Badge](https://img.shields.io/badge/-sergiomataherrero-black?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergiomataherrero)
 
 Have a great day!
