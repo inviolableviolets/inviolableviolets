@@ -46,11 +46,9 @@ Currently, I am working as an assistant teacher at ISDI Coders (formerly known a
 ### Contact:
 Feel free to reach out to me at sergiomataherrero@gmail.com (pretty original, I know) or in any of my social networks.
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergiomataherrero)
-
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/inviolableviolets/)
-
-[![LastFM Badge](https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)]https://www.last.fm/user/SergioStroszek)https://www.last.fm/user/SergioStroszek)
+[![LastFM Badge](https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/user/SergioStroszek)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergiomataherrero) 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/inviolableviolets/) 
 
 
 Have a great day!
