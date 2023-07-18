@@ -5,7 +5,7 @@
 
 
 ### About:
- I'm Sergio, a front-end developer hailing from Asturias, Spain, now living in the capital. As a former music and events enthusiast turned programmer, I find that music trains the mind for web design — it all boils down to creativity and precision!
+Hi! I'm Sergio, a front-end developer hailing from Asturias, Spain, now living in the capital. As a former music and events enthusiast turned programmer, I find that music trains the mind for web design — it all boils down to creativity and precision!
 <br>
 <br>
 Currently, I'm working as an assistant teacher at ISDI Coders (formerly known as Skylab), which has been awarded as 'the best Bootcamp in the world' by <a href="https://isdicoders.com/mejor-bootcamp-de-programacion-del-mundo-en-2020/">Switchup</a>.
