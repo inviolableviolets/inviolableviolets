@@ -14,7 +14,7 @@ Currently, I'm working as an assistant teacher at ISDI Coders (formerly known as
 
 ### Toolkit:
 <div align="center">
-<img src="https://www.offsetup.com/assets/techlogos/mern.png" title="MERN Stack" alt="MERN Stack" max-width="450" max-height="200">
+<img src="https://www.offsetup.com/assets/techlogos/mern.png" title="MERN Stack" alt="MERN Stack" style="max-width: 450px; max-height: 200px;">
 <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="70" height="50"/>
